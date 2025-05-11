@@ -18,7 +18,7 @@
 |static|s_|int s_iValue||
 |struct|st|[SYSTEMTIME](https://learn.microsoft.com/en-us/windows/win32/api/minwinbase/ns-minwinbase-systemtime) stSystemTime||
 |||SMat4x4f stMat4x4f||
-|union|un|[LARGE_INTEGER](https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-large_integer-r1) uLargeInteger||
+|union|un|[LARGE_INTEGER](https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-large_integer-r1) unLargeInteger||
 |unsigned|u|unsigned char ucValue||
 |||unsigned short usValue||
 |||unsigned int uiValue||
